@@ -1,0 +1,1455 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "mjm7FMrmpCcL3qw-8Iwdiu1NSgw",
+    "items": [
+    {
+        "kind": "youtube#video",
+        "etag": "UzavZXHzFWCN4eq5PUs7PhV-i-g",
+        "id": "gdsUKphmB3Y",
+        "snippet": {
+            "publishedAt": "2022-02-14T01:37:03Z",
+            "channelId": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+            "title": "Dr. Dre, Snoop Dogg, Eminem, Mary J. Blige & Kendrick Lamar FULL Pepsi Super Bowl LVI Halftime Show",
+            "description": "Check out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n#NFL #Football #AmericanFootball",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/gdsUKphmB3Y/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/gdsUKphmB3Y/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/gdsUKphmB3Y/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "NFL",
+            "tags": [
+                "Cincinnati Bengals",
+                "Los Angeles Rams"
+            ],
+            "categoryId": "17",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Dr. Dre, Snoop Dogg, Eminem, Mary J. Blige & Kendrick Lamar FULL Pepsi Super Bowl LVI Halftime Show",
+                "description": "Check out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n#NFL #Football #AmericanFootball"
+            }
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "60mToxhXGHmJmgZ2IpYcO-jpuRI",
+        "id": "aWzlQ2N6qqg",
+        "snippet": {
+            "publishedAt": "2022-02-13T23:12:44Z",
+            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
+            "title": "Marvel Studios' Doctor Strange in the Multiverse of Madness | Official Trailer",
+            "description": "Enter a new dimension of Strange. Watch the official trailer for Marvel Studios' Doctor Strange in the Multiverse of Madness. Only in theaters May 6.\n\nIn Marvel Studios’ “Doctor Strange in the Multiverse of Madness,” the MCU unlocks the Multiverse and pushes its boundaries further than ever before. Journey into the unknown with Doctor Strange, who, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.\n\n“Doctor Strange in the Multiverse of Madness” stars Benedict Cumberbatch, Chiwetel Ejiofor, Elizabeth Olsen, Benedict Wong, Xochitl Gomez, with Michael Stühlbarg, and Rachel McAdams.\n\nThe film is directed by Sam Raimi, and Kevin Feige is the producer. Louis D’Esposito, Victoria Alonso, Eric Hauserman Carroll and Jamie Christopher serve as executive producers. The screenplay was written by Michael Waldron.\n\n► Watch Marvel on Disney+: https://bit.ly/2XyBSIW\n► Subscribe to Marvel on YouTube: http://bit.ly/WeO3YJ\n\nFollow Marvel on Twitter: ‪https://twitter.com/marvel\nLike Marvel on Facebook: ‪https://www.facebook.com/marvel\nWatch Marvel on Twitch: https://www.twitch.tv/marvel\n\nReward your Marvel fandom by joining Marvel Insider!\nEarn points, then redeem for awesome rewards.\nTerms and conditions apply. \nLearn more at https://www.marvel.com/insider?Osocial=YT&CID=MarvelInsider\n\nFor even more news, stay tuned to:\nTumblr: ‪http://marvelentertainment.tumblr.com/\nInstagram: https://www.instagram.com/marvel\nPinterest: ‪http://pinterest.com/marvelofficial\nReddit: http://reddit.com/u/marvel-official",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aWzlQ2N6qqg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aWzlQ2N6qqg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aWzlQ2N6qqg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/aWzlQ2N6qqg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/aWzlQ2N6qqg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Marvel Entertainment",
+            "tags": [
+                "marvel",
+                "comics"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Marvel Studios' Doctor Strange in the Multiverse of Madness | Official Trailer",
+                "description": "Enter a new dimension of Strange. Watch the official trailer for Marvel Studios' Doctor Strange in the Multiverse of Madness. Only in theaters May 6.\n\nIn Marvel Studios’ “Doctor Strange in the Multiverse of Madness,” the MCU unlocks the Multiverse and pushes its boundaries further than ever before. Journey into the unknown with Doctor Strange, who, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.\n\n“Doctor Strange in the Multiverse of Madness” stars Benedict Cumberbatch, Chiwetel Ejiofor, Elizabeth Olsen, Benedict Wong, Xochitl Gomez, with Michael Stühlbarg, and Rachel McAdams.\n\nThe film is directed by Sam Raimi, and Kevin Feige is the producer. Louis D’Esposito, Victoria Alonso, Eric Hauserman Carroll and Jamie Christopher serve as executive producers. The screenplay was written by Michael Waldron.\n\n► Watch Marvel on Disney+: https://bit.ly/2XyBSIW\n► Subscribe to Marvel on YouTube: http://bit.ly/WeO3YJ\n\nFollow Marvel on Twitter: ‪https://twitter.com/marvel\nLike Marvel on Facebook: ‪https://www.facebook.com/marvel\nWatch Marvel on Twitch: https://www.twitch.tv/marvel\n\nReward your Marvel fandom by joining Marvel Insider!\nEarn points, then redeem for awesome rewards.\nTerms and conditions apply. \nLearn more at https://www.marvel.com/insider?Osocial=YT&CID=MarvelInsider\n\nFor even more news, stay tuned to:\nTumblr: ‪http://marvelentertainment.tumblr.com/\nInstagram: https://www.instagram.com/marvel\nPinterest: ‪http://pinterest.com/marvelofficial\nReddit: http://reddit.com/u/marvel-official"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "9XsE88MgW4QaDiNYW63O5ByNJ8U",
+        "id": "bC1cWi8T_8g",
+        "snippet": {
+            "publishedAt": "2022-02-14T03:00:28Z",
+            "channelId": "UCTU5PYs3vQvY8b9kOMoQGUg",
+            "title": "euphoria | season 2 episode 7 promo | hbo",
+            "description": "on the next episode of #EUPHORIA #EUPHORIA\r\n\r\nZendaya leads an ensemble cast that also includes Maude Apatow, Angus Cloud, Eric Dane, Alexa Demie, Jacob Elordi, Barbie Ferreira, Nika King, Storm Reid, Hunter Schafer, Algee Smith and Sydney Sweeney. \r\n\r\nAll episodes created and written by Sam Levinson, who also serves as executive producer. Other executive producers include Drake, Future the Prince, Ravi Nandan, Kevin Turen, Hadas Mozes Lichtenstein, Ron Leshem, Daphna Levin, Tmira Yardeni, Mirit Toovi, Yoram Mokady, Gary Lennon and Jim Kleverweis. Produced in partnership with A24 and based on the Israeli series of the same name, which was created by Ron Leshem and Daphna Levin, from HOT. \r\n\r\nFollow @euphoria on Instagram: https://www.instagram.com/euphoria \r\nFollow @euphoriaHBO on Twitter: https://www.twitter.com/euphoriaHBO\r\n\r\nLearn more about EUPHORIA: https://www.hbo.com/euphoria",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bC1cWi8T_8g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bC1cWi8T_8g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bC1cWi8T_8g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/bC1cWi8T_8g/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/bC1cWi8T_8g/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "euphoria",
+            "tags": [
+                "hbo",
+                "euphoria",
+                "euphoriahbo",
+                "zendaya",
+                "hunter schafer",
+                "barbie ferreira",
+                "jacob elordi",
+                "sydney sweeney",
+                "alexa demie",
+                "storm reid",
+                "algee smith",
+                "maude apatow",
+                "rue",
+                "jules",
+                "kat",
+                "nate",
+                "cassie",
+                "maddy",
+                "gia",
+                "mckay",
+                "drama",
+                "television",
+                "2019"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "euphoria | season 2 episode 7 promo | hbo",
+                "description": "on the next episode of #EUPHORIA #EUPHORIA\r\n\r\nZendaya leads an ensemble cast that also includes Maude Apatow, Angus Cloud, Eric Dane, Alexa Demie, Jacob Elordi, Barbie Ferreira, Nika King, Storm Reid, Hunter Schafer, Algee Smith and Sydney Sweeney. \r\n\r\nAll episodes created and written by Sam Levinson, who also serves as executive producer. Other executive producers include Drake, Future the Prince, Ravi Nandan, Kevin Turen, Hadas Mozes Lichtenstein, Ron Leshem, Daphna Levin, Tmira Yardeni, Mirit Toovi, Yoram Mokady, Gary Lennon and Jim Kleverweis. Produced in partnership with A24 and based on the Israeli series of the same name, which was created by Ron Leshem and Daphna Levin, from HOT. \r\n\r\nFollow @euphoria on Instagram: https://www.instagram.com/euphoria \r\nFollow @euphoriaHBO on Twitter: https://www.twitter.com/euphoriaHBO\r\n\r\nLearn more about EUPHORIA: https://www.hbo.com/euphoria"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "ABK9r58mrA7ALwKvQhi1m6C2qBo",
+        "id": "2bZYqFsU72Y",
+        "snippet": {
+            "publishedAt": "2022-02-14T00:16:41Z",
+            "channelId": "UCSVpCNZzOeMekuMiFze3fnQ",
+            "title": "The First-Ever All-Electric Chevy Silverado – New Generation (The Sopranos) | Chevrolet​",
+            "description": "With available Four-Wheel Steer, an available Multi-Flex Midgate and a GM-estimated 400 miles of range on a full charge of the Ultium battery, Silverado EV is a whole new truck for a whole new generation. \nReserve yours now at: https://www.chevrolet.com/electric/silverado-ev/reservation?socid=youtube_213\n\n*First edition RST GM-estimated range on a full charge based on current capability of analytical projection consistent with SAE J1634 revision 2017 – MCT. Actual range may vary based on several factors, including temperature, terrain, battery age, loading, and how you use and maintain your vehicle. EPA estimates not yet available.\n\nLearn more about the First-Ever All-Electric Silverado EV: https://www.chevrolet.com/electric/silverado-ev\n\nJoin the conversation on our social channels:\nInstagram: https://www.instagram.com/chevrolet/\nFacebook: https://www.facebook.com/chevrolet/\nTwitter: https://twitter.com/chevrolet",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2bZYqFsU72Y/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2bZYqFsU72Y/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2bZYqFsU72Y/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Chevrolet",
+            "tags": [
+                "Chevrolet",
+                "Chevy",
+                "Silverado EV",
+                "Electric Silverado",
+                "Chevy Electric Truck",
+                "Chevrolet Silverado EV",
+                "Chevy Silverado EV",
+                "Electric Pickup Truck",
+                "Electric Truck",
+                "Chevy Superbowl Commercial",
+                "Sopranos",
+                "Chevy Superbowl"
+            ],
+            "categoryId": "2",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "The First-Ever All-Electric Chevy Silverado – New Generation (The Sopranos) | Chevrolet​",
+                "description": "With available Four-Wheel Steer, an available Multi-Flex Midgate and a GM-estimated 400 miles of range on a full charge of the Ultium battery, Silverado EV is a whole new truck for a whole new generation. \nReserve yours now at: https://www.chevrolet.com/electric/silverado-ev/reservation?socid=youtube_213\n\n*First edition RST GM-estimated range on a full charge based on current capability of analytical projection consistent with SAE J1634 revision 2017 – MCT. Actual range may vary based on several factors, including temperature, terrain, battery age, loading, and how you use and maintain your vehicle. EPA estimates not yet available.\n\nLearn more about the First-Ever All-Electric Silverado EV: https://www.chevrolet.com/electric/silverado-ev\n\nJoin the conversation on our social channels:\nInstagram: https://www.instagram.com/chevrolet/\nFacebook: https://www.facebook.com/chevrolet/\nTwitter: https://twitter.com/chevrolet"
+            },
+            "defaultAudioLanguage": "en-US"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "uvkM6Tv08YxqvC7m2BQOxyuXHbc",
+        "id": "v7v1hIkYH24",
+        "snippet": {
+            "publishedAt": "2022-02-14T01:42:46Z",
+            "channelId": "UCQJWtTnAHhEG5w4uN0udnUQ",
+            "title": "The Lord of the Rings: The Rings of Power – Teaser Trailer | Prime Video",
+            "description": "A new legend begins this fall. The Lord of the Rings: The Rings of Power, only on Prime Video Sept 2, 2022. #LOTRonPrime #LOTR #LOTRROP\n---\n\nAbout \"The Lord of the Rings: The Rings of Power\"\nAmazon Studios’ forthcoming series brings to screens for the very first time the heroic legends of the fabled Second Age of Middle-earth's history. This epic drama is set thousands of years before the events of J.R.R. Tolkien’s The Hobbit and The Lord of the Rings, and will take viewers back to an era in which great powers were forged, kingdoms rose to glory and fell to ruin, unlikely heroes were tested, hope hung by the finest of threads, and the greatest villain that ever flowed from Tolkien’s pen threatened to cover all the world in darkness. \n\nBeginning in a time of relative peace, the series follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of the elf-capital of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/v7v1hIkYH24/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/v7v1hIkYH24/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/v7v1hIkYH24/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Prime Video",
+            "tags": [
+                "LOTR",
+                "amazon",
+                "amazon lord of the rings",
+                "amazon prime",
+                "amazon prime video",
+                "amazon studios",
+                "epic",
+                "fantasy",
+                "fantasy series",
+                "lord of the rings",
+                "lord of the rings season 1",
+                "lord of the rings trailer",
+                "lord of the rings tv series",
+                "lord of the rings tv show",
+                "lotr on prime",
+                "middle earth",
+                "middle-earth",
+                "prime video",
+                "prime video lord of the rings",
+                "rings of power",
+                "tolkien",
+                "tv series",
+                "tv series 2022"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "The Lord of the Rings: The Rings of Power – Teaser Trailer | Prime Video",
+                "description": "A new legend begins this fall. The Lord of the Rings: The Rings of Power, only on Prime Video Sept 2, 2022. #LOTRonPrime #LOTR #LOTRROP\n---\n\nAbout \"The Lord of the Rings: The Rings of Power\"\nAmazon Studios’ forthcoming series brings to screens for the very first time the heroic legends of the fabled Second Age of Middle-earth's history. This epic drama is set thousands of years before the events of J.R.R. Tolkien’s The Hobbit and The Lord of the Rings, and will take viewers back to an era in which great powers were forged, kingdoms rose to glory and fell to ruin, unlikely heroes were tested, hope hung by the finest of threads, and the greatest villain that ever flowed from Tolkien’s pen threatened to cover all the world in darkness. \n\nBeginning in a time of relative peace, the series follows an ensemble cast of characters, both familiar and new, as they confront the long-feared re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of the elf-capital of Lindon, to the breathtaking island kingdom of Númenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone."
+            },
+            "defaultAudioLanguage": "en-US"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "RaW6HpuUfKvNAbqsXCUwGwUbHrk",
+        "id": "thhak8grCvQ",
+        "snippet": {
+            "publishedAt": "2022-02-13T18:09:50Z",
+            "channelId": "UCbp9MyKCTEww4CxEzc_Tp0Q",
+            "title": "$50,000 EXTREME HIDE & SEEK IN TRAMPOLINE PARK!",
+            "description": "Can't believe that happened at the end.. \n\nSubscribe to them!\nKat Hixson  @Kat Hixson \nShawn's Twitch: https://www.twitch.tv/shawbby\nBrent Rivera  @Brent Rivera \nLexi Rivera  @Alexa Rivera \nAndrew Davila  @Andrew Davila \nJeremy Hutchins  @Jeremy Hutchins \nBen Azelart @Ben Azelart \nPierson @pierson \nLexi Hensler @Lexi hensler\nDom Brack @dom brack\n\nStalk us on instagram for more content ;)\n\nAlan's Instagram: https://instagram.com/imalanstokes/ \nAlex's Instagram: https://instagram.com/imalexstokes/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/thhak8grCvQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/thhak8grCvQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/thhak8grCvQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/thhak8grCvQ/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/thhak8grCvQ/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Stokes Twins",
+            "tags": [
+                "Hide and seek",
+                "hide n seek",
+                "hide and seek challenge",
+                "tag",
+                "extreme hide and seek",
+                "extreme tag",
+                "trampoline park",
+                "myths",
+                "challenge",
+                "24 hour challenge",
+                "50 hour challenge",
+                "Stokes Twins",
+                "Ben Azelart",
+                "Lexi Rivera",
+                "Brent Rivera",
+                "Jeremy Hutchins",
+                "lexi hensler",
+                "pierson",
+                "andrew davila",
+                "sofie dossi",
+                "Amp World",
+                "David Dobrik",
+                "MrBeast",
+                "logan paul",
+                "James Charles",
+                "Loren Gray",
+                "Faze Rug",
+                "Faze Jarvis",
+                "Lizzy Capri",
+                "Carter Sharer",
+                "Preston",
+                "unspeakable",
+                "amp",
+                "airrack",
+                "busting myths"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "$50,000 EXTREME HIDE & SEEK IN TRAMPOLINE PARK!",
+                "description": "Can't believe that happened at the end.. \n\nSubscribe to them!\nKat Hixson  @Kat Hixson \nShawn's Twitch: https://www.twitch.tv/shawbby\nBrent Rivera  @Brent Rivera \nLexi Rivera  @Alexa Rivera \nAndrew Davila  @Andrew Davila \nJeremy Hutchins  @Jeremy Hutchins \nBen Azelart @Ben Azelart \nPierson @pierson \nLexi Hensler @Lexi hensler\nDom Brack @dom brack\n\nStalk us on instagram for more content ;)\n\nAlan's Instagram: https://instagram.com/imalanstokes/ \nAlex's Instagram: https://instagram.com/imalexstokes/"
+            },
+            "defaultAudioLanguage": "en-US"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "E_Fae8ZbpWKVDYlZyx9v1b4AIIo",
+        "id": "CqRWAgeuJ0Y",
+        "snippet": {
+            "publishedAt": "2022-02-14T03:29:45Z",
+            "channelId": "UCq3hT5JPPKy87JGbDls_5BQ",
+            "title": "DOCTOR STRANGE In The Multiverse Madness Trailer Breakdown | Easter Eggs And Professor X!?",
+            "description": "DOCTOR STRANGE In The Multiverse Madness Superbowl Trailer Breakdown | Easter Eggs And Things You Missed. We breakdown the new Doctor Strange 2 Trailer and discuss all the easter eggs, the theories about Wanda being the villain, the big cameos and a lot of the story.\n\n#DoctorStrange #InTheMultiverseOfMadness #Trailer #EasterEgg #TrailberBreakdown #Spiderman #NoWayHome #Marvel #Wanda #Wandavision #Hawkeye #Superbowl #ProfessorX\n\nIf you enjoyed this video then please subscribe to the channel https://www.youtube.com/channel/UCq3hT5JPPKy87JGbDls_5BQ?sub_confirmation=1\n\nIf You Want To Help Support The Channel So I Can Make More Videos Like This Please Donate Here:\nhttps://www.youtube.com/channel/UCq3hT5JPPKy87JGbDls_5BQ/join\n\nGet some awesome Heavy Spoilers show clothes, phonecases and accessories at - https://teespring.com/en-GB/stores/deffinitions-store\n\n*Check out our BEST new videos below*\n*Nope Trailer Breakdown* - https://www.youtube.com/watch?v=glRz6_H9XBo\n*Uncharted Ending Explained* - https://www.youtube.com/watch?v=a5TjweBcmfE\n*Book Of Boba Fett Episode 7 Breakdown* - https://www.youtube.com/watch?v=6fxPgDXrKdQ\n*Cad Bane Explained* - https://www.youtube.com/watch?v=hQOFYIFj56M\n*Why We Think THE BATMAN Will Be Amazing* - https://www.youtube.com/watch?v=LwWauxxfSRw\n\n\n/* ----- SOCIAL MEDIA ----- */\n\nFollow Me On Social Media At:\nWebsite - https://heavyspoilers.com/\nTikTok - https://www.tiktok.com/@heavyspoilers?lang=en\nTwitter - https://twitter.com/heavyspoilers\nInstagram - https://www.instagram.com/heavyspoilers/\nFacebook - https://www.facebook.com/DeffinitionMC/\n\n\n/* ----- VIDEO INFORMATION ----- */\n\n0:00 Doctor Strange In The Multiverse Of Madness Intro\n0:34 Spider-Man No Way Home Recap\n0:53 Wanda Theories\n4:12 Dreams And Nightmares...of madness\n5:44 America Chavez Explained\n7:45 Returning Characters And Professor X\n9:48 Doctor Strange Variants And Comic Inspiration\n12:28 Mordo, Captain Carter, Rintrah and More\n14:26 Reaction\n\n\nWelcome to the Heavy Spoilers show I'm your host Paul and we're in the endzone now with the superbowl trailer for Doctor Strange In The Multiverse Of Madness releasing online.\n\nThroughout this video we're gonna be going over all the hidden details in it, teaching you right from wong and also discussing our theories on who could be showing up in the full. I think the first trailer released at the end of No Way Home also fills in a lot of the plot too so we'll be going over that and talking about how it teases what's in this one.\n\nIf you enjoy the video then please smash the thumbs up button and also don't forget to subscribe for videos like this every day. With that out the way, thanks for clicking this now let's get into The Multiverse Of Madness.\n\nOk so when we last saw Stephen Strange he was the Doctor Making you forget rather than being the Doctor that you forgot about...Dre.\n\n(What)\n\nIf you look at things from his perspective he has no idea why the multiverse has cracked open as he now no longer remembers P...some..someone from that movie. This is why he's gone to Wanda, who after the events of Westview has been lying low near what may or may not be Mount Wundagore.\n\nIn the first trailer we got a good look at her Garden in which it seemed like she'd planted hundreds and hundreds of white trees. Going off on a big symbolism tangent these in many ways represent the multiple worlds that we will be visiting in the movie. They're all very similar looking but if you get up close you'll notice minor differences to them.\n\nAdding to this metaphor Strange first comes across Wanda pruning branches, terminology that was used in Loki when the TVA talked about shutting down an off shoot timeline.\n\nThe colour white typicall represents peace and in spiritualism it's classed as being something that shows acceptance. The opposite to this is red which is embodied within Wanda's red chaos magic.\n\nMy guess is that initially Wanda will be at peace with losing her children but after she learns variants of them exist within the multiverse that she'll attempt to go after them. Wanda will likely be  the big bad in the movie and in the first trailer we could catch Wong being held up by glowing red magic, probably hinting to her being the main antagonist in the film.\n\nWe of course also have the multiple Doctor Stranges and also Baron Mordo who we'll talk about later on in the video.\n\nIf the darker version is indeed the same one from What If then he will in many ways be a mirror of Wanda as the pair both lost the person they loved. They tried whatever they could to bring them back including completely warping reality and there's a lot of great things that they can do here with both of them.\n\n\n► Artist Attribution\nMusic By KaizanBlu\nYouTube: https://www.youtube.com/c/KaizanBlu​\nLicence: https://creativecommons.org/licenses/by-sa/4.0/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CqRWAgeuJ0Y/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CqRWAgeuJ0Y/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CqRWAgeuJ0Y/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/CqRWAgeuJ0Y/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/CqRWAgeuJ0Y/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Heavy Spoilers",
+            "tags": [
+                "doctor strange in the multiverse of madness",
+                "doctor strange 2 trailer",
+                "doctor strange",
+                "doctor strange 2",
+                "doctor strange 2 leaks",
+                "doctor strange 2 plot leak",
+                "multiverse of madness",
+                "multiverse of madness leaks",
+                "spider man no way home trailer",
+                "multiverse of madness trailer",
+                "no way home",
+                "doctor strange leaks",
+                "plot leaks",
+                "doctor strange in the multiverse of madness leaks",
+                "doctor strange 2 spoilers",
+                "what if",
+                "marvel",
+                "mcu",
+                "spider man",
+                "post credits scene",
+                "no way home post credits scene"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "DOCTOR STRANGE In The Multiverse Madness Trailer Breakdown | Easter Eggs And Professor X!?",
+                "description": "DOCTOR STRANGE In The Multiverse Madness Superbowl Trailer Breakdown | Easter Eggs And Things You Missed. We breakdown the new Doctor Strange 2 Trailer and discuss all the easter eggs, the theories about Wanda being the villain, the big cameos and a lot of the story.\n\n#DoctorStrange #InTheMultiverseOfMadness #Trailer #EasterEgg #TrailberBreakdown #Spiderman #NoWayHome #Marvel #Wanda #Wandavision #Hawkeye #Superbowl #ProfessorX\n\nIf you enjoyed this video then please subscribe to the channel https://www.youtube.com/channel/UCq3hT5JPPKy87JGbDls_5BQ?sub_confirmation=1\n\nIf You Want To Help Support The Channel So I Can Make More Videos Like This Please Donate Here:\nhttps://www.youtube.com/channel/UCq3hT5JPPKy87JGbDls_5BQ/join\n\nGet some awesome Heavy Spoilers show clothes, phonecases and accessories at - https://teespring.com/en-GB/stores/deffinitions-store\n\n*Check out our BEST new videos below*\n*Nope Trailer Breakdown* - https://www.youtube.com/watch?v=glRz6_H9XBo\n*Uncharted Ending Explained* - https://www.youtube.com/watch?v=a5TjweBcmfE\n*Book Of Boba Fett Episode 7 Breakdown* - https://www.youtube.com/watch?v=6fxPgDXrKdQ\n*Cad Bane Explained* - https://www.youtube.com/watch?v=hQOFYIFj56M\n*Why We Think THE BATMAN Will Be Amazing* - https://www.youtube.com/watch?v=LwWauxxfSRw\n\n\n/* ----- SOCIAL MEDIA ----- */\n\nFollow Me On Social Media At:\nWebsite - https://heavyspoilers.com/\nTikTok - https://www.tiktok.com/@heavyspoilers?lang=en\nTwitter - https://twitter.com/heavyspoilers\nInstagram - https://www.instagram.com/heavyspoilers/\nFacebook - https://www.facebook.com/DeffinitionMC/\n\n\n/* ----- VIDEO INFORMATION ----- */\n\n0:00 Doctor Strange In The Multiverse Of Madness Intro\n0:34 Spider-Man No Way Home Recap\n0:53 Wanda Theories\n4:12 Dreams And Nightmares...of madness\n5:44 America Chavez Explained\n7:45 Returning Characters And Professor X\n9:48 Doctor Strange Variants And Comic Inspiration\n12:28 Mordo, Captain Carter, Rintrah and More\n14:26 Reaction\n\n\nWelcome to the Heavy Spoilers show I'm your host Paul and we're in the endzone now with the superbowl trailer for Doctor Strange In The Multiverse Of Madness releasing online.\n\nThroughout this video we're gonna be going over all the hidden details in it, teaching you right from wong and also discussing our theories on who could be showing up in the full. I think the first trailer released at the end of No Way Home also fills in a lot of the plot too so we'll be going over that and talking about how it teases what's in this one.\n\nIf you enjoy the video then please smash the thumbs up button and also don't forget to subscribe for videos like this every day. With that out the way, thanks for clicking this now let's get into The Multiverse Of Madness.\n\nOk so when we last saw Stephen Strange he was the Doctor Making you forget rather than being the Doctor that you forgot about...Dre.\n\n(What)\n\nIf you look at things from his perspective he has no idea why the multiverse has cracked open as he now no longer remembers P...some..someone from that movie. This is why he's gone to Wanda, who after the events of Westview has been lying low near what may or may not be Mount Wundagore.\n\nIn the first trailer we got a good look at her Garden in which it seemed like she'd planted hundreds and hundreds of white trees. Going off on a big symbolism tangent these in many ways represent the multiple worlds that we will be visiting in the movie. They're all very similar looking but if you get up close you'll notice minor differences to them.\n\nAdding to this metaphor Strange first comes across Wanda pruning branches, terminology that was used in Loki when the TVA talked about shutting down an off shoot timeline.\n\nThe colour white typicall represents peace and in spiritualism it's classed as being something that shows acceptance. The opposite to this is red which is embodied within Wanda's red chaos magic.\n\nMy guess is that initially Wanda will be at peace with losing her children but after she learns variants of them exist within the multiverse that she'll attempt to go after them. Wanda will likely be  the big bad in the movie and in the first trailer we could catch Wong being held up by glowing red magic, probably hinting to her being the main antagonist in the film.\n\nWe of course also have the multiple Doctor Stranges and also Baron Mordo who we'll talk about later on in the video.\n\nIf the darker version is indeed the same one from What If then he will in many ways be a mirror of Wanda as the pair both lost the person they loved. They tried whatever they could to bring them back including completely warping reality and there's a lot of great things that they can do here with both of them.\n\n\n► Artist Attribution\nMusic By KaizanBlu\nYouTube: https://www.youtube.com/c/KaizanBlu​\nLicence: https://creativecommons.org/licenses/by-sa/4.0/"
+            },
+            "defaultAudioLanguage": "en-GB"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "EfA6Jo_9_YF_dRJBVeGUyjJyeV8",
+        "id": "ZDXEnr3Ww98",
+        "snippet": {
+            "publishedAt": "2022-02-13T16:00:12Z",
+            "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+            "title": "WHEN THE SHOES HIT THE KETCHUP 😂 - #shorts",
+            "description": "🔥 FOLLOW ME 🔥\nInstagram: https://www.instagram.com/topperguild/?hl=en\nTikTok: https://www.tiktok.com/@topperguild?lang=en",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ZDXEnr3Ww98/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ZDXEnr3Ww98/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ZDXEnr3Ww98/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ZDXEnr3Ww98/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ZDXEnr3Ww98/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Topper Guild",
+            "tags": [
+                "Topperguild",
+                "Topperguild tiktok",
+                "tiktok",
+                "pranks",
+                "family",
+                "girlfriend",
+                "dad",
+                "funny",
+                "family friendly",
+                "prank",
+                "relationships",
+                "couples",
+                "topper and colie",
+                "shorts",
+                "challenge",
+                "ketchup"
+            ],
+            "categoryId": "23",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "WHEN THE SHOES HIT THE KETCHUP 😂 - #shorts",
+                "description": "🔥 FOLLOW ME 🔥\nInstagram: https://www.instagram.com/topperguild/?hl=en\nTikTok: https://www.tiktok.com/@topperguild?lang=en"
+            }
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "fWHBOUdBlgO9z-L_CZgNVVMQC_E",
+        "id": "KM3Yx-5Ymiw",
+        "snippet": {
+            "publishedAt": "2022-02-13T23:44:28Z",
+            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
+            "title": "Big Game TV Spot | Marvel Studios’ Moon Knight | Disney+",
+            "description": "See the all-new Big Game TV Spot for Marvel Studios’ #MoonKnight 🌙, an Original series streaming March 30, only on Disney+.\n\nThe story follows Steven Grant, a mild-mannered gift-shop employee, who becomes plagued with blackouts and memories of another life. Steven discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc’s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt. \n\n“Moon Knight” stars Oscar Isaac, Ethan Hawke and May Calamawy. Kevin Feige, Louis D’Esposito, Victoria Alonso, Grant Curtis, Brad Winderbaum, Oscar Isaac, Mohamed Diab and Jeremy Slater are the executive producers, with Trevor Waterson and Rebecca Kirsch serving as co-executive producers. Jeremy Slater is the head writer. \n\n► Watch Marvel on Disney+: https://bit.ly/2XyBSIW\n► Subscribe to Marvel on YouTube: http://bit.ly/WeO3YJ\n\nFollow Marvel on Twitter: ‪https://twitter.com/marvel\nLike Marvel on Facebook: ‪https://www.facebook.com/marvel\nWatch Marvel on Twitch: https://www.twitch.tv/marvel\n\nReward your Marvel fandom by joining Marvel Insider!\nEarn points, then redeem for awesome rewards.\nTerms and conditions apply. \nLearn more at https://www.marvel.com/insider?Osocial=YT&CID=MarvelInsider\n\nFor even more news, stay tuned to:\nTumblr: ‪http://marvelentertainment.tumblr.com/\nInstagram: https://www.instagram.com/marvel\nPinterest: ‪http://pinterest.com/marvelofficial\nReddit: http://reddit.com/u/marvel-official",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/KM3Yx-5Ymiw/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/KM3Yx-5Ymiw/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/KM3Yx-5Ymiw/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Marvel Entertainment",
+            "tags": [
+                "marvel",
+                "comics"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Big Game TV Spot | Marvel Studios’ Moon Knight | Disney+",
+                "description": "See the all-new Big Game TV Spot for Marvel Studios’ #MoonKnight 🌙, an Original series streaming March 30, only on Disney+.\n\nThe story follows Steven Grant, a mild-mannered gift-shop employee, who becomes plagued with blackouts and memories of another life. Steven discovers he has dissociative identity disorder and shares a body with mercenary Marc Spector. As Steven/Marc’s enemies converge upon them, they must navigate their complex identities while thrust into a deadly mystery among the powerful gods of Egypt. \n\n“Moon Knight” stars Oscar Isaac, Ethan Hawke and May Calamawy. Kevin Feige, Louis D’Esposito, Victoria Alonso, Grant Curtis, Brad Winderbaum, Oscar Isaac, Mohamed Diab and Jeremy Slater are the executive producers, with Trevor Waterson and Rebecca Kirsch serving as co-executive producers. Jeremy Slater is the head writer. \n\n► Watch Marvel on Disney+: https://bit.ly/2XyBSIW\n► Subscribe to Marvel on YouTube: http://bit.ly/WeO3YJ\n\nFollow Marvel on Twitter: ‪https://twitter.com/marvel\nLike Marvel on Facebook: ‪https://www.facebook.com/marvel\nWatch Marvel on Twitch: https://www.twitch.tv/marvel\n\nReward your Marvel fandom by joining Marvel Insider!\nEarn points, then redeem for awesome rewards.\nTerms and conditions apply. \nLearn more at https://www.marvel.com/insider?Osocial=YT&CID=MarvelInsider\n\nFor even more news, stay tuned to:\nTumblr: ‪http://marvelentertainment.tumblr.com/\nInstagram: https://www.instagram.com/marvel\nPinterest: ‪http://pinterest.com/marvelofficial\nReddit: http://reddit.com/u/marvel-official"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "SAIbVIm3Gr2tf75BBqeR_QmQ1cY",
+        "id": "VmI0YIqdjv8",
+        "snippet": {
+            "publishedAt": "2022-02-14T14:56:53Z",
+            "channelId": "UCF2oW5-MO8dB6ul9WH9xi0A",
+            "title": "I'M PREGNANT!",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/VmI0YIqdjv8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/VmI0YIqdjv8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/VmI0YIqdjv8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/VmI0YIqdjv8/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/VmI0YIqdjv8/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "blndsundoll4mj",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "I'M PREGNANT!",
+                "description": ""
+            }
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "oP5izIvrWg75La9UDnxPZLxGhUc",
+        "id": "In8fuzj3gck",
+        "snippet": {
+            "publishedAt": "2022-02-13T08:05:01Z",
+            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+            "title": "NOPE - Official Trailer",
+            "description": "NOPE - Only in Theaters 7.22.22\nhttps://www.nope.movie/\n\n“What’s a bad miracle?” \n \nOscar® winner Jordan Peele disrupted and redefined modern horror with Get Out and then Us. Now, he reimagines the summer movie with a new pop nightmare: the expansive horror epic, Nope. \n \nThe film reunites Peele with Oscar® winner Daniel Kaluuya (Get Out, Judas and the Black Messiah), who is joined by Keke Palmer (Hustlers, Alice) and Oscar® nominee Steven Yeun (Minari, Okja) as residents in a lonely gulch of inland California who bear witness to an uncanny and chilling discovery. \n \nNope, which co-stars Michael Wincott (Hitchcock, Westworld) and Brandon Perea (The OA, American Insurrection), is written and directed by Jordan Peele and is produced by Ian Cooper (Us, Candyman) and Jordan Peele for Monkeypaw Productions. The film will be released by Universal Pictures worldwide.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/In8fuzj3gck/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/In8fuzj3gck/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/In8fuzj3gck/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/In8fuzj3gck/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/In8fuzj3gck/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Universal Pictures",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "NOPE - Official Trailer",
+                "description": "NOPE - Only in Theaters 7.22.22\nhttps://www.nope.movie/\n\n“What’s a bad miracle?” \n \nOscar® winner Jordan Peele disrupted and redefined modern horror with Get Out and then Us. Now, he reimagines the summer movie with a new pop nightmare: the expansive horror epic, Nope. \n \nThe film reunites Peele with Oscar® winner Daniel Kaluuya (Get Out, Judas and the Black Messiah), who is joined by Keke Palmer (Hustlers, Alice) and Oscar® nominee Steven Yeun (Minari, Okja) as residents in a lonely gulch of inland California who bear witness to an uncanny and chilling discovery. \n \nNope, which co-stars Michael Wincott (Hitchcock, Westworld) and Brandon Perea (The OA, American Insurrection), is written and directed by Jordan Peele and is produced by Ian Cooper (Us, Candyman) and Jordan Peele for Monkeypaw Productions. The film will be released by Universal Pictures worldwide."
+            },
+            "defaultAudioLanguage": "en"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "Cnf4LBr9zJ-f8fwVpMRzNIfUJJs",
+        "id": "rvmtQvA_cmM",
+        "snippet": {
+            "publishedAt": "2022-02-14T17:00:12Z",
+            "channelId": "UCNnwYefwrkVBAbMUzLpxbEQ",
+            "title": "Romeo Santos - Sus Huellas (Official Video)",
+            "description": "Romeo Santos - Sus Huellas (Official Video)\n\nMúsica:\nApple Music: https://RomeoSantos.lnk.to/SusHuellas/applemusic \nSpotify: https://RomeoSantos.lnk.to/SusHuellas/spotify \nAmazon: https://RomeoSantos.lnk.to/SusHuellas/amazonmusicstreaming \nYouTube: https://RomeoSantos.lnk.to/SusHuellas/youtube \niTunes: https://RomeoSantos.lnk.to/SusHuellas/itunes \nDeezer: https://RomeoSantos.lnk.to/SusHuellas/deezer \n\nLetra:\nAntes que desnude el corazón\nTe advierto que lo tengo con heridas\nQue mi pasado oscuro fue una mujer\nY necesito ahora borrarla de mi vida\n\nAntes que termine esta canción\nEspero que tomes la iniciativa a deshacerme estragos de dolor\nA sacarme sus secuelas de mi cuerpo\nTantas noches que fui suyo aún la siento\n\nVen arráncame sus huellas\nAunque quede en carne viva con la piel hecha pedazos\n\nVen arráncame las venas\nPorque el plasma en mi interior tiene veneno de su amor\nY toma este encendedor\nQuiero que quemes mis labios\nElimíname el sabor\nQue su lengua mi hizo daño\n\nVen arráncame sus huellas\nCada rastro en mi pellejo con un cuchillo\n\nVen arráncame estas penas\nAsí no queda nada de ella cuando esté contigo\n\nDespués, cuando no me quede una lesión\nRenazco un hombre nuevo y seré tuyo\nMientras tanto dame tu aportación\nA sacarme sus secuelas de mi cuerpo\nTantas noches que fui suyo aún la siento\n\nVen arráncame sus huellas\nAunque quede en carne viva con mi piel hecha pedazos\n\nVen arráncame las venas\nPorque el plasma en mi interior tiene veneno de su amor\nY tome este encendedor\nQuiero que quemes mis labios\nElimíname el sabor \nQue su lengua mi hizo daño\n\nVen arráncame sus huellas\nCada rastro en mi pellejo con un cuchillo\n\nVen arráncame estas penas\nAsí no queda nada de ella cuando estés conmigo\n\nArráncame todo \nQuiero ser de ti\nNo quiero sus huellas\nPrefiero morir\n\nArráncame todo \nQuiero ser de ti\nNo quiero sus huellas\n\nFacebook: https://www.facebook.com/RomeoSantosOfficial/\nTwitter: https://twitter.com/RomeoSantosPage\nInstagram: https://www.instagram.com/romeosantos\nWebsite: https://www.RomeoSantosOnline.com\n\n#RomeoSantos #SusHuellas\n\nMusic video by Romeo Santos performing Sus Huellas (Official Video). (C) 2022 Sony Music Entertainment US Latin LLC",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rvmtQvA_cmM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rvmtQvA_cmM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rvmtQvA_cmM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "RomeoSantosVEVO",
+            "tags": [
+                "Romeo Santos",
+                "Sony Music Latin",
+                "Sus Huellas",
+                "Tropical"
+            ],
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Romeo Santos - Sus Huellas (Official Video)",
+                "description": "Romeo Santos - Sus Huellas (Official Video)\n\nMúsica:\nApple Music: https://RomeoSantos.lnk.to/SusHuellas/applemusic \nSpotify: https://RomeoSantos.lnk.to/SusHuellas/spotify \nAmazon: https://RomeoSantos.lnk.to/SusHuellas/amazonmusicstreaming \nYouTube: https://RomeoSantos.lnk.to/SusHuellas/youtube \niTunes: https://RomeoSantos.lnk.to/SusHuellas/itunes \nDeezer: https://RomeoSantos.lnk.to/SusHuellas/deezer \n\nLetra:\nAntes que desnude el corazón\nTe advierto que lo tengo con heridas\nQue mi pasado oscuro fue una mujer\nY necesito ahora borrarla de mi vida\n\nAntes que termine esta canción\nEspero que tomes la iniciativa a deshacerme estragos de dolor\nA sacarme sus secuelas de mi cuerpo\nTantas noches que fui suyo aún la siento\n\nVen arráncame sus huellas\nAunque quede en carne viva con la piel hecha pedazos\n\nVen arráncame las venas\nPorque el plasma en mi interior tiene veneno de su amor\nY toma este encendedor\nQuiero que quemes mis labios\nElimíname el sabor\nQue su lengua mi hizo daño\n\nVen arráncame sus huellas\nCada rastro en mi pellejo con un cuchillo\n\nVen arráncame estas penas\nAsí no queda nada de ella cuando esté contigo\n\nDespués, cuando no me quede una lesión\nRenazco un hombre nuevo y seré tuyo\nMientras tanto dame tu aportación\nA sacarme sus secuelas de mi cuerpo\nTantas noches que fui suyo aún la siento\n\nVen arráncame sus huellas\nAunque quede en carne viva con mi piel hecha pedazos\n\nVen arráncame las venas\nPorque el plasma en mi interior tiene veneno de su amor\nY tome este encendedor\nQuiero que quemes mis labios\nElimíname el sabor \nQue su lengua mi hizo daño\n\nVen arráncame sus huellas\nCada rastro en mi pellejo con un cuchillo\n\nVen arráncame estas penas\nAsí no queda nada de ella cuando estés conmigo\n\nArráncame todo \nQuiero ser de ti\nNo quiero sus huellas\nPrefiero morir\n\nArráncame todo \nQuiero ser de ti\nNo quiero sus huellas\n\nFacebook: https://www.facebook.com/RomeoSantosOfficial/\nTwitter: https://twitter.com/RomeoSantosPage\nInstagram: https://www.instagram.com/romeosantos\nWebsite: https://www.RomeoSantosOnline.com\n\n#RomeoSantos #SusHuellas\n\nMusic video by Romeo Santos performing Sus Huellas (Official Video). (C) 2022 Sony Music Entertainment US Latin LLC"
+            }
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "6a897VM1lIPrphdPobeJKdMItUw",
+        "id": "hv5CzJdx6NE",
+        "snippet": {
+            "publishedAt": "2022-02-13T23:25:42Z",
+            "channelId": "UCRI5ZedBs0_BYY4PlxD6m7w",
+            "title": "Can I Get Uhhhhhhhhhhhh | McDonald’s",
+            "description": "yes u can",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hv5CzJdx6NE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hv5CzJdx6NE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hv5CzJdx6NE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/hv5CzJdx6NE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/hv5CzJdx6NE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "McDonald's",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Can I Get Uhhhhhhhhhhhh | McDonald’s",
+                "description": "yes u can"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "s4Zx1EB7a6pLd_QAitTVo5J7Shk",
+        "id": "BH5-rSxilxo",
+        "snippet": {
+            "publishedAt": "2022-02-14T00:54:55Z",
+            "channelId": "UC3r0upC_xJ9SvtaCKNUtosA",
+            "title": "Don't Miss Out | Larry David's Extended Cut",
+            "description": "The next big thing is here, even if Larry can’t see it. Don’t miss out. Download the FTX app, the safe and easy way to buy and sell crypto.\n\nHighlighted as one of the best commercials of the Super Bowl by Good Morning America, The Today Show, and many more. \n\n●▬▬▬▬▬▬Trade on FTX▬▬▬▬▬▬▬▬●\n\nFTX is a cryptocurrency exchange built by traders, for traders. FTX offers innovative products including industry-first derivatives, options, volatility products and leveraged tokens. We strive to develop a platform robust enough for professional trading firms and intuitive enough for first-time users.\n\nhttps://ftx.com/\n\n●▬▬▬▬▬▬▬▬FTX Socials▬▬▬▬▬▬▬▬▬●\n\nFTX Twitter: https://twitter.com/FTX_Official\nFTX Youtube: https://www.youtube.com/c/FTXOfficial/\nSBF Twitter: https://twitter.com/SBF_Alameda\nLinkedIN: https://www.linkedin.com/company/ftx\n\n●▬▬▬▬▬▬▬▬FTX Customer Support▬▬▬▬▬▬▬▬▬▬▬●\n\nHelp Desk: https://help.ftx.com/hc/en-us\nFTX.com/support \nSupport@ftx.com\n\nTelegrams:\nFTX Telegram Communities\nEnglish - https://t.me/FTX_Official\nChinese - https://t.me/FTX_Chinese_Official\nVietnamese - https://t.me/FTX_Vietnam_Official \nRussian - https://t.me/FTX_Russian_Official\nTurkish - https://t.me/FTX_Turkey_official\nTaiwanese - https://t.me/FTX_Taiwan_Official\nIndia - https://t.me/FTX_India_Official\nSpanish - https://t.me/Ftx_Spanish_Official\nPortuguese - https://t.me/Ftx_Portugues_Oficial\nAfrica - https://t.me/FTX_Africa\nIndonesian - https://t.me/FTX_Indonesia\n\n{Please refer to the latest FTX policies and rules on FTX Help Center: https://help.ftx.com/hc/en-us ]",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BH5-rSxilxo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BH5-rSxilxo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BH5-rSxilxo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/BH5-rSxilxo/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/BH5-rSxilxo/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "FTX Official",
+            "tags": [
+                "larry david super bowl commercial",
+                "larry david super bowl",
+                "larry david crypto",
+                "larry david ftx",
+                "larry david superbowl ad",
+                "larry david commercial",
+                "larry david ad",
+                "larry david commercial 2022",
+                "larry david crypto commercial",
+                "crypto",
+                "eth",
+                "ftx",
+                "btc",
+                "larry",
+                "super bowl",
+                "super bowl 2022",
+                "crypto commercial",
+                "ftx crypto exchange",
+                "cryptocurrency commercial",
+                "investing",
+                "super bowl commercial 2022",
+                "super bowl commercial",
+                "super bowl ad",
+                "bitcoin",
+                "best super bowl commercial",
+                "invest in crypto"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Don't Miss Out | Larry David's Extended Cut",
+                "description": "The next big thing is here, even if Larry can’t see it. Don’t miss out. Download the FTX app, the safe and easy way to buy and sell crypto.\n\nHighlighted as one of the best commercials of the Super Bowl by Good Morning America, The Today Show, and many more. \n\n●▬▬▬▬▬▬Trade on FTX▬▬▬▬▬▬▬▬●\n\nFTX is a cryptocurrency exchange built by traders, for traders. FTX offers innovative products including industry-first derivatives, options, volatility products and leveraged tokens. We strive to develop a platform robust enough for professional trading firms and intuitive enough for first-time users.\n\nhttps://ftx.com/\n\n●▬▬▬▬▬▬▬▬FTX Socials▬▬▬▬▬▬▬▬▬●\n\nFTX Twitter: https://twitter.com/FTX_Official\nFTX Youtube: https://www.youtube.com/c/FTXOfficial/\nSBF Twitter: https://twitter.com/SBF_Alameda\nLinkedIN: https://www.linkedin.com/company/ftx\n\n●▬▬▬▬▬▬▬▬FTX Customer Support▬▬▬▬▬▬▬▬▬▬▬●\n\nHelp Desk: https://help.ftx.com/hc/en-us\nFTX.com/support \nSupport@ftx.com\n\nTelegrams:\nFTX Telegram Communities\nEnglish - https://t.me/FTX_Official\nChinese - https://t.me/FTX_Chinese_Official\nVietnamese - https://t.me/FTX_Vietnam_Official \nRussian - https://t.me/FTX_Russian_Official\nTurkish - https://t.me/FTX_Turkey_official\nTaiwanese - https://t.me/FTX_Taiwan_Official\nIndia - https://t.me/FTX_India_Official\nSpanish - https://t.me/Ftx_Spanish_Official\nPortuguese - https://t.me/Ftx_Portugues_Oficial\nAfrica - https://t.me/FTX_Africa\nIndonesian - https://t.me/FTX_Indonesia\n\n{Please refer to the latest FTX policies and rules on FTX Help Center: https://help.ftx.com/hc/en-us ]"
+            },
+            "defaultAudioLanguage": "en-US"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "e6k0lKWyWblQTzGG6rk1nkmeAj4",
+        "id": "wBS9m_jyYp0",
+        "snippet": {
+            "publishedAt": "2022-02-14T00:36:07Z",
+            "channelId": "UC7_WiJnJxpm4MRNesRttzWg",
+            "title": "DOCTOR STRANGE In The Multiverse Of Madness TRAILER 2 REACTION!! Xavier Patrick Stewart!",
+            "description": "PROFESSOR X (PATRICK STEWART) FROM X-MEN CONFIRMED! Doctor Strange 2 Official Trailer Reaction & Breakdown today featuring Dr Strange (Bendict Cumberbatch), Professor X Charles Xavier (Patrick Stewart), The Illuminati, Wanda Maximoff Scarlett Witch, America Chavez, & SO MUCH CHAOS! \n#DoctorStrange #Marvel #DoctorStrangeInTheMultiverseOfMadness\n\nFollow Coy Jandreau On Youtube: https://www.youtube.com/c/CoyJandreau/featured\n\n- Doctor Strange in the Multiverse of Madness Trailer Reaction: https://youtu.be/V385DyKnH0U\n- The Batman Trailer 3 Reaction: https://youtu.be/aeFyy639dwI\n- Moonknight Trailer Reaction: https://youtu.be/-223jAcyIBk\n- Peacemaker Episode 1 Reaction: https://youtu.be/BO5OnBOLEJs\n- Spider-Man No Way Home Spoiler Review (Tobey Maguire Andrew Garfield): https://youtu.be/MrmenzdWbJE\n- The Batman Trailer 2 Reaction: https://youtu.be/109u6ARs_U4\n- The Flash 2022 Movie Trailer Reaction: https://youtu.be/wmmCaI3VZEQ\n- Black Adam Trailer Reaction (First Look): https://youtu.be/ZT5wwEDOGfY\n- Squid Game Reactions: https://www.youtube.com/playlist?list=PL-bIhJVeYWw8VEv1Su2UPCtgo7fiCK2sv\n- Stranger Things Season 4 Trailer Reaction: https://youtu.be/PMEKTumOxHU \nAsk Us A QUESTION On CAMEO: https://www.cameo.com/thereelrejects\n\n0:00 Leave A Like\n0:21 Doctor Strange 2 Trailer Reaction\n2:40 Doctor Strange 2 Trailer Breakdown \n\n\nBecome A Super Reject Supporter For Full Length T.V. Show Reactions!  https://www.patreon.com/thereelrejects\n\nDOWNLOAD & FOLLOW US on the STARDUST APP: https://stardust.app.link/ReelRejects\n\nOriginal Video: https://www.youtube.com/watch?v=aWzlQ2N6qqg&ab_channel=MarvelEntertainment\n\nFollow TheReelRejects On FACEBOOK, TWITTER, & INSTAGRAM: \nFB: https://www.facebook.com/TheReelRejects/\nINSTAGRAM: https://www.instagram.com/reelrejects/\nTWITTER: https://twitter.com/thereelrejects\n\nFollow GREG On INSTAGRAM & TWITTER:\nINSTAGRAM: https://www.instagram.com/thegregalba/\nTWITTER: https://twitter.com/thegregalba\n\nFollow JOHN HUMPHREY On INSTAGRAM & TWITTER:\nTwitter: https://twitter.com/datjohnhumphrey\nInstagram: https://www.instagram.com/datjohnhumphrey/\n\n\nPLAYLISTS:\n\nTrailer Reactions & Reviews:\nhttps://www.youtube.com/playlist?list=PL-bIhJVeYWw9ZsLdoAQFpx38s2hhyFgDe\n\nMovie Reviews:\nhttps://www.youtube.com/playlist?list=PL-bIhJVeYWw-comtadVs8b9JsZEWHUyr8\n\nMovie Talk (News, Spoiler Reviews, & Film Rumors!!!):\nhttps://www.youtube.com/playlist?list=PL-bIhJVeYWw8fPQ-21NVSb2IOwIiHbVt8\n\n\nYoutube Video Reactions & Discussions:\nhttps://www.youtube.com/playlist?list=PL-bIhJVeYWw_qwcPsN_vOxXC6IVzrOQYG\n\nSketches & Short Films:\nhttps://www.youtube.com/playlist?list=PL-bIhJVeYWw_zWuTRfBOUP3aYyIYRzc2y\n\nVlog:\nhttps://www.youtube.com/playlist?list=PL-bIhJVeYWw9TdRZC0NvGLve0eNWmUjzs",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wBS9m_jyYp0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wBS9m_jyYp0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wBS9m_jyYp0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/wBS9m_jyYp0/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/wBS9m_jyYp0/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "The Reel Rejects",
+            "tags": [
+                "reel rejects",
+                "doctor strange in the multiverse of madness",
+                "doctor strange 2 trailer",
+                "doctor strange 2",
+                "doctor strange 2 leaks",
+                "doctor strange 2 plot leak",
+                "multiverse of madness",
+                "multiverse of madness leaks",
+                "spider man no way home trailer",
+                "multiverse of madness trailer",
+                "no way home",
+                "doctor strange leaks",
+                "plot leaks",
+                "doctor strange in the multiverse of madness leaks",
+                "doctor strange 2 spoilers",
+                "marvel",
+                "mcu",
+                "spider man",
+                "post credits scene",
+                "no way home post credits scene"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "DOCTOR STRANGE In The Multiverse Of Madness TRAILER 2 REACTION!! Xavier Patrick Stewart!",
+                "description": "PROFESSOR X (PATRICK STEWART) FROM X-MEN CONFIRMED! Doctor Strange 2 Official Trailer Reaction & Breakdown today featuring Dr Strange (Bendict Cumberbatch), Professor X Charles Xavier (Patrick Stewart), The Illuminati, Wanda Maximoff Scarlett Witch, America Chavez, & SO MUCH CHAOS! \n#DoctorStrange #Marvel #DoctorStrangeInTheMultiverseOfMadness\n\nFollow Coy Jandreau On Youtube: https://www.youtube.com/c/CoyJandreau/featured\n\n- Doctor Strange in the Multiverse of Madness Trailer Reaction: https://youtu.be/V385DyKnH0U\n- The Batman Trailer 3 Reaction: https://youtu.be/aeFyy639dwI\n- Moonknight Trailer Reaction: https://youtu.be/-223jAcyIBk\n- Peacemaker Episode 1 Reaction: https://youtu.be/BO5OnBOLEJs\n- Spider-Man No Way Home Spoiler Review (Tobey Maguire Andrew Garfield): https://youtu.be/MrmenzdWbJE\n- The Batman Trailer 2 Reaction: https://youtu.be/109u6ARs_U4\n- The Flash 2022 Movie Trailer Reaction: https://youtu.be/wmmCaI3VZEQ\n- Black Adam Trailer Reaction (First Look): https://youtu.be/ZT5wwEDOGfY\n- Squid Game Reactions: https://www.youtube.com/playlist?list=PL-bIhJVeYWw8VEv1Su2UPCtgo7fiCK2sv\n- Stranger Things Season 4 Trailer Reaction: https://youtu.be/PMEKTumOxHU \nAsk Us A QUESTION On CAMEO: https://www.cameo.com/thereelrejects\n\n0:00 Leave A Like\n0:21 Doctor Strange 2 Trailer Reaction\n2:40 Doctor Strange 2 Trailer Breakdown \n\n\nBecome A Super Reject Supporter For Full Length T.V. Show Reactions!  https://www.patreon.com/thereelrejects\n\nDOWNLOAD & FOLLOW US on the STARDUST APP: https://stardust.app.link/ReelRejects\n\nOriginal Video: https://www.youtube.com/watch?v=aWzlQ2N6qqg&ab_channel=MarvelEntertainment\n\nFollow TheReelRejects On FACEBOOK, TWITTER, & INSTAGRAM: \nFB: https://www.facebook.com/TheReelRejects/\nINSTAGRAM: https://www.instagram.com/reelrejects/\nTWITTER: https://twitter.com/thereelrejects\n\nFollow GREG On INSTAGRAM & TWITTER:\nINSTAGRAM: https://www.instagram.com/thegregalba/\nTWITTER: https://twitter.com/thegregalba\n\nFollow JOHN HUMPHREY On INSTAGRAM & TWITTER:\nTwitter: https://twitter.com/datjohnhumphrey\nInstagram: https://www.instagram.com/datjohnhumphrey/\n\n\nPLAYLISTS:\n\nTrailer Reactions & Reviews:\nhttps://www.youtube.com/playlist?list=PL-bIhJVeYWw9ZsLdoAQFpx38s2hhyFgDe\n\nMovie Reviews:\nhttps://www.youtube.com/playlist?list=PL-bIhJVeYWw-comtadVs8b9JsZEWHUyr8\n\nMovie Talk (News, Spoiler Reviews, & Film Rumors!!!):\nhttps://www.youtube.com/playlist?list=PL-bIhJVeYWw8fPQ-21NVSb2IOwIiHbVt8\n\n\nYoutube Video Reactions & Discussions:\nhttps://www.youtube.com/playlist?list=PL-bIhJVeYWw_qwcPsN_vOxXC6IVzrOQYG\n\nSketches & Short Films:\nhttps://www.youtube.com/playlist?list=PL-bIhJVeYWw_zWuTRfBOUP3aYyIYRzc2y\n\nVlog:\nhttps://www.youtube.com/playlist?list=PL-bIhJVeYWw9TdRZC0NvGLve0eNWmUjzs"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "Zv8bxYYtUP6VhdgkAVh855vG6-I",
+        "id": "8-KnvsqWeVc",
+        "snippet": {
+            "publishedAt": "2022-02-14T02:11:59Z",
+            "channelId": "UC7yRILFFJ2QZCykymr8LPwA",
+            "title": "Doctor Strange Multiverse of Madness Trailer REACTION! Prof Xavier Patrick Stewart Confirmed!",
+            "description": "Multiverse of Madness Superbowl Trailer CONFIRMS Professor Charles Xavier PATRICK STEWART is coming to the MCU! Erik Voss REACTS to this trailer! Download Whatnot using code https://www.whatnot.com/invite/new_rockstars\n\nDoctor Strange in the Multiverse of Madness reveals the ILLUMINATI to the MCU, with Professor Charles Xavier from the X-Men films, Patrick Stewart, crossing over into this reality, joined perhaps by Reed Richards, Blade, Doctor Doom, Iron Man Tom Cruise, and more! Erik Voss reacts to this insane trailer, and everything it tells us about Marvel's secret plans to bring mutants into the MCU through a Scarlet Witch House of M event that ties directly into the events of WandaVision. Why are we seeing ZOMBIE versions of Wanda Maximoff and Doctor Strange? Is the Scarlet Witch fighting Captain Marvel Monica Rambeau?\n\nCheck out our sweet, sweet merch! http://www.newrockstarsmerch.com\nJoin the nerdy conversation on Discord! https://discord.io/newrockstars\nSubscribe:​ ​http://bit.ly/SubNewRockstars​ | Enable ALL push notifications ​ 🔔\nWatch the NEWEST videos: https://www.youtube.com/playlist?list=PL4xEo4XxrSJbbjsGMSWDN62z8XB6QzHFy\n\nNew Rockstars supports efforts to end racial violence. Please help those struggling, however you can: https://secure.actblue.com/donate/ms_blm_homepage_2019\n\nFollow New Rockstars​:\nInstagram: ​https://instagram.com/newrockstars \nFacebook: ​https://facebook.com/NewMediaRockstars \nTwitter: ​https://twitter.com/newrockstars\nPatreon: ​http://patreon.com/newrockstars\n\nWatch more New Rockstars:\nMovie/TV Breakdowns: ​https://youtube.com/playlist?list=PL4xEo4XxrSJYIc41RsaDb9ffBm1U3xuNc&playnext=1\nNews & Theories: ​https://youtube.com/playlist?list=PL4xEo4XxrSJbRbibTPzfQGG8OL6BYPgiW&playnext=1\nTrailer Breakdowns: ​https://youtube.com/playlist?list=PL4xEo4XxrSJan8z8kY31ox5GC9kdQILud&playnext=1\nNewest Videos: https://www.youtube.com/playlist?list=PL4xEo4XxrSJbbjsGMSWDN62z8XB6QzHFy\nMost Popular: ​https://www.youtube.com/playlist?list=PL4xEo4XxrSJb4yLVNzDNWuDqrmQZwCcKb\n\nAbout New Rockstars:\nHey everyone, welcome to the official New Rockstars YouTube channel! We cover what the internet cares about. From Marvel to the Walking Dead, Rick and Morty to Stranger Things, James Bond to Star Wars, and more. We got you covered in every movie and television show you might love! Don’t forget to subscribe and enable all push notifications so you never miss a review, breakdown, or theory.\n\nPATREON PRODUCERS:\nBrendan Langdon\nCody Anderson\nDan Woodson\nLookNoHands\nKaren Wang\nO. Grometto\nPony Stark\nRick Denmon\nRXJedi\n\nProducer: Erik Voss http://www.twitter.com/eavoss\nProducer: Zach Huddleston\nProducer: Brandon Barrick\nWriter: Erik Voss\nWriter/Host: MasterTainment\nNRDS Chief Creative Officer: Filup Molina http://www.twitter.com/filupmolina\nPost Production Supervisor: Riley Auskelis\nStaff Editors: John Costa, Joshua Steven Hurd, & Drew Coombs\nEditor: Kelly Joule",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/8-KnvsqWeVc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/8-KnvsqWeVc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/8-KnvsqWeVc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/8-KnvsqWeVc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/8-KnvsqWeVc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "New Rockstars",
+            "tags": [
+                "new rockstars",
+                "new rockstars youtube",
+                "youtube new rockstars",
+                "doctor strange",
+                "multiverse of madness",
+                "multiverse of madness trailer",
+                "professor x",
+                "xavier",
+                "charles xavier",
+                "patrick stewart",
+                "doctor strange 2",
+                "doctor strange super bowl",
+                "doctor strange superbowl",
+                "multiverse of madness superbowl",
+                "scarlet witch",
+                "illuminati",
+                "marvel illuminati",
+                "erik voss"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Doctor Strange Multiverse of Madness Trailer REACTION! Prof Xavier Patrick Stewart Confirmed!",
+                "description": "Multiverse of Madness Superbowl Trailer CONFIRMS Professor Charles Xavier PATRICK STEWART is coming to the MCU! Erik Voss REACTS to this trailer! Download Whatnot using code https://www.whatnot.com/invite/new_rockstars\n\nDoctor Strange in the Multiverse of Madness reveals the ILLUMINATI to the MCU, with Professor Charles Xavier from the X-Men films, Patrick Stewart, crossing over into this reality, joined perhaps by Reed Richards, Blade, Doctor Doom, Iron Man Tom Cruise, and more! Erik Voss reacts to this insane trailer, and everything it tells us about Marvel's secret plans to bring mutants into the MCU through a Scarlet Witch House of M event that ties directly into the events of WandaVision. Why are we seeing ZOMBIE versions of Wanda Maximoff and Doctor Strange? Is the Scarlet Witch fighting Captain Marvel Monica Rambeau?\n\nCheck out our sweet, sweet merch! http://www.newrockstarsmerch.com\nJoin the nerdy conversation on Discord! https://discord.io/newrockstars\nSubscribe:​ ​http://bit.ly/SubNewRockstars​ | Enable ALL push notifications ​ 🔔\nWatch the NEWEST videos: https://www.youtube.com/playlist?list=PL4xEo4XxrSJbbjsGMSWDN62z8XB6QzHFy\n\nNew Rockstars supports efforts to end racial violence. Please help those struggling, however you can: https://secure.actblue.com/donate/ms_blm_homepage_2019\n\nFollow New Rockstars​:\nInstagram: ​https://instagram.com/newrockstars \nFacebook: ​https://facebook.com/NewMediaRockstars \nTwitter: ​https://twitter.com/newrockstars\nPatreon: ​http://patreon.com/newrockstars\n\nWatch more New Rockstars:\nMovie/TV Breakdowns: ​https://youtube.com/playlist?list=PL4xEo4XxrSJYIc41RsaDb9ffBm1U3xuNc&playnext=1\nNews & Theories: ​https://youtube.com/playlist?list=PL4xEo4XxrSJbRbibTPzfQGG8OL6BYPgiW&playnext=1\nTrailer Breakdowns: ​https://youtube.com/playlist?list=PL4xEo4XxrSJan8z8kY31ox5GC9kdQILud&playnext=1\nNewest Videos: https://www.youtube.com/playlist?list=PL4xEo4XxrSJbbjsGMSWDN62z8XB6QzHFy\nMost Popular: ​https://www.youtube.com/playlist?list=PL4xEo4XxrSJb4yLVNzDNWuDqrmQZwCcKb\n\nAbout New Rockstars:\nHey everyone, welcome to the official New Rockstars YouTube channel! We cover what the internet cares about. From Marvel to the Walking Dead, Rick and Morty to Stranger Things, James Bond to Star Wars, and more. We got you covered in every movie and television show you might love! Don’t forget to subscribe and enable all push notifications so you never miss a review, breakdown, or theory.\n\nPATREON PRODUCERS:\nBrendan Langdon\nCody Anderson\nDan Woodson\nLookNoHands\nKaren Wang\nO. Grometto\nPony Stark\nRick Denmon\nRXJedi\n\nProducer: Erik Voss http://www.twitter.com/eavoss\nProducer: Zach Huddleston\nProducer: Brandon Barrick\nWriter: Erik Voss\nWriter/Host: MasterTainment\nNRDS Chief Creative Officer: Filup Molina http://www.twitter.com/filupmolina\nPost Production Supervisor: Riley Auskelis\nStaff Editors: John Costa, Joshua Steven Hurd, & Drew Coombs\nEditor: Kelly Joule"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "hVhLmcIF-Fcdf-HGy88l29lxHc8",
+        "id": "4x4MND-Rhrc",
+        "snippet": {
+            "publishedAt": "2022-02-14T03:31:43Z",
+            "channelId": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+            "title": "Rams vs. Bengals | Super Bowl LVI Game Highlights",
+            "description": "- The Los Angeles Rams take on the Cincinnati Bengals during Super Bowl LVI in Los Angeles.\n\nCheck out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n- Super Bowl 56\n\n#NFL #Football #AmericanFootball",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4x4MND-Rhrc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4x4MND-Rhrc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4x4MND-Rhrc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/4x4MND-Rhrc/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/4x4MND-Rhrc/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "NFL",
+            "categoryId": "17",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Rams vs. Bengals | Super Bowl LVI Game Highlights",
+                "description": "- The Los Angeles Rams take on the Cincinnati Bengals during Super Bowl LVI in Los Angeles.\n\nCheck out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n- Super Bowl 56\n\n#NFL #Football #AmericanFootball"
+            }
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "KhMgagg2oGyk-6SMbRIdr0SZxNw",
+        "id": "ukLeyxOA8uk",
+        "snippet": {
+            "publishedAt": "2022-02-14T00:06:56Z",
+            "channelId": "UCbjYSzY1wJn3sTW5UZB1dmg",
+            "title": "Rocket Homes and Rocket Mortgage | Super Bowl LVI | Dream House with Anna Kendrick and Barbie",
+            "description": "In a competitive home buying market, Barbie was able to find and finance her dream house with some help from Rocket Homesˢᵐ, Rocket Mortgage® and Anna Kendrick. Learn how you can, too and show your favorite ads some love on Ad Meter: https://admeter.usatoday.com/  \n\nFind your future home and get financed all in one place with the power of Rocket!\n\nNMLS # 3030",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ukLeyxOA8uk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ukLeyxOA8uk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ukLeyxOA8uk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/ukLeyxOA8uk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/ukLeyxOA8uk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Rocket Mortgage",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Rocket Homes and Rocket Mortgage | Super Bowl LVI | Dream House with Anna Kendrick and Barbie",
+                "description": "In a competitive home buying market, Barbie was able to find and finance her dream house with some help from Rocket Homesˢᵐ, Rocket Mortgage® and Anna Kendrick. Learn how you can, too and show your favorite ads some love on Ad Meter: https://admeter.usatoday.com/  \n\nFind your future home and get financed all in one place with the power of Rocket!\n\nNMLS # 3030"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "OiH5ryLiuu7jbx4Q8ZKWz4IDJYg",
+        "id": "4XTdIxmY5UI",
+        "snippet": {
+            "publishedAt": "2022-02-14T00:02:44Z",
+            "channelId": "UCJOwq_trsKYpVWUpGuXeyAg",
+            "title": "E*TRADE Commercial – E*TRADE Baby “Off The Grid”",
+            "description": "When the E*TRADE baby finds out about the state of personal finances, he realizes retirement will have to wait. Check out what happens.\n\nLearn more about our investment options at https://us.etrade.com/what-we-offer.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4XTdIxmY5UI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4XTdIxmY5UI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4XTdIxmY5UI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "E*TRADE from Morgan Stanley",
+            "tags": [
+                "TheETRADEBaby",
+                "ETRADEBaby",
+                "TheBabyIsBack",
+                "ETRADE",
+                "ReturnOfTheBaby",
+                "TheBaby",
+                "ads",
+                "ad",
+                "advertising",
+                "commercial",
+                "EtradeCommercial",
+                "Trading",
+                "Finances",
+                "Investing",
+                "Saving",
+                "Banking",
+                "Invest",
+                "Investments",
+                "Retirement",
+                "Traders",
+                "StockMarket",
+                "StopWaitingStartInvesting"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "E*TRADE Commercial – E*TRADE Baby “Off The Grid”",
+                "description": "When the E*TRADE baby finds out about the state of personal finances, he realizes retirement will have to wait. Check out what happens.\n\nLearn more about our investment options at https://us.etrade.com/what-we-offer."
+            },
+            "defaultAudioLanguage": "en"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "ibuDAOTtKb9mgsdBW5O8D3xe4HM",
+        "id": "AtQIz5pkwwg",
+        "snippet": {
+            "publishedAt": "2022-02-14T01:06:59Z",
+            "channelId": "UC1pOTJteEef10zJM0cHs4iQ",
+            "title": "2022 Toyota Big Game Commercial Ft Tommy, Leslie, and Rashida: \"The Joneses\" | Toyota Tundra",
+            "description": "Is keeping up with the Joneses really that hard? Depends on how you equip yourself. Stay ahead with the new 2022 Toyota Tundra, our toughest, most capable, most advanced Tundra to date. Watch more Tundra videos: https://www.youtube.com/watch?v=oHtVwh15dWo&list=PLsOvRYzJPCwXiIqNagw45EhrkNO2MidRO&index=1\n\nLearn more: https://www.toyota.com/tundra/\n\nWatch our other Big Game Commercial, featuring Paralympic gold medalists, Brian and Robin McKeever: https://www.youtube.com/watch?v=u3pbC74bf8E&list=PLsOvRYzJPCwUMXcbB9TkM1HwvyEZ-oeip&index=1\n\nSubscribe for more Toyota videos: http://bit.ly/ToyotaSubscribe\r\n\r\nConnect with Toyota USA online:\r\nVisit the Toyota WEBSITE: http://bit.ly/ToyotaSite\r\nLike Toyota on FACEBOOK: http://bit.ly/ToyotaUSAFB\r\nFollow Toyota on TWITTER: http://bit.ly/ToyotaTwitter\r\nFollow Toyota on INSTAGRAM: http://bit.ly/ToyotaInsta\n\n#Toyota presents their 2022 #BigGameCommercial, featuring Tommy Lee Jones, Leslie Jones, Rashida Jones, and a surprise guest.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AtQIz5pkwwg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AtQIz5pkwwg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AtQIz5pkwwg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/AtQIz5pkwwg/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/AtQIz5pkwwg/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Toyota USA",
+            "tags": [
+                "Tommy Lee Jones",
+                "Leslie Jones",
+                "Rashida Jones",
+                "Joe Jonas",
+                "Toyota Tundra",
+                "2022 Tundra",
+                "Toyota",
+                "Toyota USA",
+                "2022 Toyota Tundra",
+                "Toyota Tundra 2022",
+                "Tundra 2022",
+                "2022 Toyota Tundra TRD Pro",
+                "2022 Tundra TRD Pro",
+                "22 Toyota Tundra",
+                "Toyota Tundra Offroad",
+                "Toyota Tundra Off Road",
+                "Tundra Off Roading",
+                "Big Game Ad",
+                "Big Game Commercial"
+            ],
+            "categoryId": "2",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "2022 Toyota Big Game Commercial Ft Tommy, Leslie, and Rashida: \"The Joneses\" | Toyota Tundra",
+                "description": "Is keeping up with the Joneses really that hard? Depends on how you equip yourself. Stay ahead with the new 2022 Toyota Tundra, our toughest, most capable, most advanced Tundra to date. Watch more Tundra videos: https://www.youtube.com/watch?v=oHtVwh15dWo&list=PLsOvRYzJPCwXiIqNagw45EhrkNO2MidRO&index=1\n\nLearn more: https://www.toyota.com/tundra/\n\nWatch our other Big Game Commercial, featuring Paralympic gold medalists, Brian and Robin McKeever: https://www.youtube.com/watch?v=u3pbC74bf8E&list=PLsOvRYzJPCwUMXcbB9TkM1HwvyEZ-oeip&index=1\n\nSubscribe for more Toyota videos: http://bit.ly/ToyotaSubscribe\r\n\r\nConnect with Toyota USA online:\r\nVisit the Toyota WEBSITE: http://bit.ly/ToyotaSite\r\nLike Toyota on FACEBOOK: http://bit.ly/ToyotaUSAFB\r\nFollow Toyota on TWITTER: http://bit.ly/ToyotaTwitter\r\nFollow Toyota on INSTAGRAM: http://bit.ly/ToyotaInsta\n\n#Toyota presents their 2022 #BigGameCommercial, featuring Tommy Lee Jones, Leslie Jones, Rashida Jones, and a surprise guest."
+            },
+            "defaultAudioLanguage": "en-US"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "DK8Vfy90mjn-5QvFiQkFkakEH9k",
+        "id": "_a5IRM5Vi_A",
+        "snippet": {
+            "publishedAt": "2022-02-14T05:28:08Z",
+            "channelId": "UClW4jraMKz6Qj69lJf-tODA",
+            "title": "NBA YoungBoy - SuperBowl",
+            "description": "I’m stalling into the album (get ready) I’m gone keep dropping 💚🧡🤎❤️",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_a5IRM5Vi_A/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_a5IRM5Vi_A/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_a5IRM5Vi_A/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/_a5IRM5Vi_A/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/_a5IRM5Vi_A/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "YoungBoy Never Broke Again",
+            "categoryId": "10",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "NBA YoungBoy - SuperBowl",
+                "description": "I’m stalling into the album (get ready) I’m gone keep dropping 💚🧡🤎❤️"
+            }
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "bO5ORwTbsjXqGyBqxoSwub_CaTY",
+        "id": "G9MJjAArKBk",
+        "snippet": {
+            "publishedAt": "2022-02-13T16:20:09Z",
+            "channelId": "UC6pGDc4bFGD1_36IKv3FnYg",
+            "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc | OFFICIAL TRAILER",
+            "description": "Watch Demon Slayer: Kimetsu no Yaiba Entertainment District Arc on Crunchyroll! https://got.cr/Watch-DSEDAYT\n\nCrunchyroll Collection brings you the latest clips, OPs, and more from your favorite anime! Don't have time for a full episode but want to catch up on the best scenes? We've got them! \n\nFREE 14-DAY CRUNCHYROLL TRIAL 🌟 https://got.cr/14DaysFree\n\n#DemonSlayer #KimetsunoYaiba #Crunchyroll",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/G9MJjAArKBk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/G9MJjAArKBk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/G9MJjAArKBk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/G9MJjAArKBk/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/G9MJjAArKBk/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Crunchyroll Collection",
+            "tags": [
+                "demon slayer",
+                "kimetsu no yaiba",
+                "season 3",
+                "demon slayer season 3",
+                "demon slayer s3",
+                "swordsmith village arc",
+                "part 3",
+                "mist hashira",
+                "love hashira",
+                "crunchyroll",
+                "anime",
+                "anime trailer",
+                "crunchyroll collection",
+                "anime pv",
+                "demon slayer part 3",
+                "kimetsu no yaiba season 3",
+                "kimestu no yaiba part 3",
+                "Katanakaji",
+                "demon slayer finale",
+                "demon slayer season 3 trailer",
+                "kimetsu no yaiba season 3 trailer",
+                "demon slayer trailer",
+                "demon slayer swordsmith village arc",
+                "demon slayer season 3 teaser"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Demon Slayer: Kimetsu no Yaiba Swordsmith Village Arc | OFFICIAL TRAILER",
+                "description": "Watch Demon Slayer: Kimetsu no Yaiba Entertainment District Arc on Crunchyroll! https://got.cr/Watch-DSEDAYT\n\nCrunchyroll Collection brings you the latest clips, OPs, and more from your favorite anime! Don't have time for a full episode but want to catch up on the best scenes? We've got them! \n\nFREE 14-DAY CRUNCHYROLL TRIAL 🌟 https://got.cr/14DaysFree\n\n#DemonSlayer #KimetsunoYaiba #Crunchyroll"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "As06Og7RlOMpEMso5UkYLwDa2HE",
+        "id": "B38eWbSuSiM",
+        "snippet": {
+            "publishedAt": "2022-02-14T07:59:10Z",
+            "channelId": "UCooVYzDxdwTtGYAkcPmOgOw",
+            "title": "Brawl Stars Animation: My Sweet Brawlentine",
+            "description": "Download NOW!! ►► https://supr.cl/playbrawl\nBe a BRAWLER! Subscribe! ►► https://supr.cl/subscribe\n\n#BrawlentinesDay #Brawlentines\n\nFast-paced 3v3 multiplayer and battle royale made for mobile! Play with friends or solo across a variety of game modes in under three minutes.\n\nUnlock and upgrade dozens of Brawlers with powerful Super abilities, Star Powers and Gadgets! Collect unique skins to stand out and show off. Battle in a variety of mysterious locations within the Brawliverse!\n\nBATTLE IN MULTIPLE GAME MODES\n- Gem Grab (3v3): Team up and out-strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gems.\n- Showdown (Solo/Duo): A battle royale style fight for survival. Collect power ups for your Brawler. Grab a friend or play solo - be the last Brawler standing in the rowdiest battle royale yet. Winner take all!\n- Brawl Ball (3v3): It's a whole new Brawl game! Show off your soccer/football skills and score two goals before the other team. There are no red cards here.\n- Bounty (3v3): Take out opponents to earn stars, but don’t let them pick you off. The squad with the most stars wins the match!\n- Heist (3v3): Protect your team’s safe and try to crack open your opponents’. Navigate the map to sneak, blast and blow your way clear to the enemies treasure.\n- Special Events: Limited time special PvE and PvP game modes.\n- Championship Challenge: Join Brawl Stars' esports scene with in-game qualifiers!\n\nUNLOCK AND UPGRADE BRAWLERS\nCollect and upgrade a variety of Brawlers with powerful Super abilities, Star Powers and Gadgets! Level them up and collect unique skins.\n\nBRAWL PASS\nComplete quests, open Brawl Boxes, earn Gems, pins and an exclusive Brawl Pass skin! Fresh content every season.\n\nBECOME THE STAR PLAYER\nClimb the local and regional leaderboards to prove you’re the greatest Brawler of them all!\n\nCONSTANTLY EVOLVING\nLook out for new Brawlers, skins, maps, special events and games modes in the future.\n\nPLEASE NOTE! Brawl Stars is free to download and play, however, some game items can also be purchased for real money. If you don't want to use this feature, please disable in-app purchases in your device's settings. Also, under our Terms of Service and Privacy Policy, you must be at least 9 years of age to play or download Brawl Stars.\n\nFeatures:\n- Team up for real-time 3v3 battles against players from across the world\n- A fast-paced multiplayer battle royale mode made for mobile\n- Unlock and collect new, powerful Brawlers - each with a signature attack and Super ability\n- New events and game modes daily\n- Battle solo or with friends\n- Climb to the top of the leaderboards in global and local rankings \n- Join or start your own Club with fellow players to share tips and battle together\n- Customize Brawlers with unlockable skins\n- Player-designed maps offer challenging new terrain to master\n\nFrom the makers of Clash of Clans, Clash Royale and Boom Beach!\n\nSupport:\nContact us in-game via Settings, Help and Support — or visit http://supercell.helpshift.com/a/brawl-stars/\n\nPrivacy Policy:\nhttp://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttp://supercell.com/en/terms-of-service/\n\nParent's Guide:\nhttp://supercell.com/en/parents/",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/B38eWbSuSiM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/B38eWbSuSiM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/B38eWbSuSiM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/B38eWbSuSiM/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/B38eWbSuSiM/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Brawl Stars",
+            "tags": [
+                "brawl stars",
+                "mobile game",
+                "mobile strategy game",
+                "mobile rpg",
+                "mobile battle royale",
+                "battle royale",
+                "supercell game",
+                "#brawlentines",
+                "brawlentines",
+                "rico",
+                "piper",
+                "love",
+                "valentines day",
+                "valentines",
+                "frank",
+                "vending machine",
+                "#BrawlentinesDay"
+            ],
+            "categoryId": "20",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+                "title": "Brawl Stars Animation: My Sweet Brawlentine",
+                "description": "Download NOW!! ►► https://supr.cl/playbrawl\nBe a BRAWLER! Subscribe! ►► https://supr.cl/subscribe\n\n#BrawlentinesDay #Brawlentines\n\nFast-paced 3v3 multiplayer and battle royale made for mobile! Play with friends or solo across a variety of game modes in under three minutes.\n\nUnlock and upgrade dozens of Brawlers with powerful Super abilities, Star Powers and Gadgets! Collect unique skins to stand out and show off. Battle in a variety of mysterious locations within the Brawliverse!\n\nBATTLE IN MULTIPLE GAME MODES\n- Gem Grab (3v3): Team up and out-strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gems.\n- Showdown (Solo/Duo): A battle royale style fight for survival. Collect power ups for your Brawler. Grab a friend or play solo - be the last Brawler standing in the rowdiest battle royale yet. Winner take all!\n- Brawl Ball (3v3): It's a whole new Brawl game! Show off your soccer/football skills and score two goals before the other team. There are no red cards here.\n- Bounty (3v3): Take out opponents to earn stars, but don’t let them pick you off. The squad with the most stars wins the match!\n- Heist (3v3): Protect your team’s safe and try to crack open your opponents’. Navigate the map to sneak, blast and blow your way clear to the enemies treasure.\n- Special Events: Limited time special PvE and PvP game modes.\n- Championship Challenge: Join Brawl Stars' esports scene with in-game qualifiers!\n\nUNLOCK AND UPGRADE BRAWLERS\nCollect and upgrade a variety of Brawlers with powerful Super abilities, Star Powers and Gadgets! Level them up and collect unique skins.\n\nBRAWL PASS\nComplete quests, open Brawl Boxes, earn Gems, pins and an exclusive Brawl Pass skin! Fresh content every season.\n\nBECOME THE STAR PLAYER\nClimb the local and regional leaderboards to prove you’re the greatest Brawler of them all!\n\nCONSTANTLY EVOLVING\nLook out for new Brawlers, skins, maps, special events and games modes in the future.\n\nPLEASE NOTE! Brawl Stars is free to download and play, however, some game items can also be purchased for real money. If you don't want to use this feature, please disable in-app purchases in your device's settings. Also, under our Terms of Service and Privacy Policy, you must be at least 9 years of age to play or download Brawl Stars.\n\nFeatures:\n- Team up for real-time 3v3 battles against players from across the world\n- A fast-paced multiplayer battle royale mode made for mobile\n- Unlock and collect new, powerful Brawlers - each with a signature attack and Super ability\n- New events and game modes daily\n- Battle solo or with friends\n- Climb to the top of the leaderboards in global and local rankings \n- Join or start your own Club with fellow players to share tips and battle together\n- Customize Brawlers with unlockable skins\n- Player-designed maps offer challenging new terrain to master\n\nFrom the makers of Clash of Clans, Clash Royale and Boom Beach!\n\nSupport:\nContact us in-game via Settings, Help and Support — or visit http://supercell.helpshift.com/a/brawl-stars/\n\nPrivacy Policy:\nhttp://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttp://supercell.com/en/terms-of-service/\n\nParent's Guide:\nhttp://supercell.com/en/parents/"
+            },
+            "defaultAudioLanguage": "en"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "wBWCD6SDU4LyLEEPaS6HcqhiSIQ",
+        "id": "0KjatG0hqwE",
+        "snippet": {
+            "publishedAt": "2022-02-14T02:34:34Z",
+            "channelId": "UCw3RyPiunzItoI61fJrdHjQ",
+            "title": "Lay’s | “Golden Memories” Seth Rogen & Paul Rudd Super Bowl LVI Commercial",
+            "description": "Ah, Lay’s. Brings back so many good memories. Lay’s. Stay Golden.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/0KjatG0hqwE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/0KjatG0hqwE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/0KjatG0hqwE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/0KjatG0hqwE/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/0KjatG0hqwE/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Lay's",
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Lay’s | “Golden Memories” Seth Rogen & Paul Rudd Super Bowl LVI Commercial",
+                "description": "Ah, Lay’s. Brings back so many good memories. Lay’s. Stay Golden."
+            },
+            "defaultAudioLanguage": "en"
+        }
+    },
+    {
+        "kind": "youtube#video",
+        "etag": "XmC0pSqfobYW9AKr83X3OlEFSMs",
+        "id": "1mCG7k06EUY",
+        "snippet": {
+            "publishedAt": "2022-02-14T14:51:49Z",
+            "channelId": "UCopNpXKBx_M48AiJjn20dhg",
+            "title": "Finding Out I'm Pregnant",
+            "description": "Finding out I'm pregnant :)\n\n----------------------------------------------------------------------------------------------------\nOur Instagrams...\n▶ Jess: http://www.instagram.com/jess\n▶ Gabriel: http://www.instagram.com/gabrielconte \n----------------------------------------------------------------------------------------------------\nOur PO Box...\n102 NE 2ND Street, Unit 501\nBoca Raton, FL 33432\n\nJess & Gabriel xx",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1mCG7k06EUY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1mCG7k06EUY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1mCG7k06EUY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                },
+                "standard": {
+                    "url": "https://i.ytimg.com/vi/1mCG7k06EUY/sddefault.jpg",
+                    "width": 640,
+                    "height": 480
+                },
+                "maxres": {
+                    "url": "https://i.ytimg.com/vi/1mCG7k06EUY/maxresdefault.jpg",
+                    "width": 1280,
+                    "height": 720
+                }
+            },
+            "channelTitle": "Jess and Gabriel",
+            "tags": [
+                "jess conte",
+                "gabriel conte",
+                "jess and gabriel",
+                "conte",
+                "jess",
+                "gabriel",
+                "married",
+                "marriage",
+                "wife",
+                "husband",
+                "husband and wife",
+                "couple",
+                "engaged",
+                "engagement",
+                "love",
+                "proposal",
+                "wedding",
+                "relationship",
+                "vlog",
+                "boyfriend",
+                "girlfriend",
+                "goals",
+                "fiance",
+                "family",
+                "challenge",
+                "long distance",
+                "dating",
+                "relationships",
+                "couples",
+                "pregnant",
+                "friendly",
+                "apartment",
+                "vlog channel",
+                "spouse"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+                "title": "Finding Out I'm Pregnant",
+                "description": "Finding out I'm pregnant :)\n\n----------------------------------------------------------------------------------------------------\nOur Instagrams...\n▶ Jess: http://www.instagram.com/jess\n▶ Gabriel: http://www.instagram.com/gabrielconte \n----------------------------------------------------------------------------------------------------\nOur PO Box...\n102 NE 2ND Street, Unit 501\nBoca Raton, FL 33432\n\nJess & Gabriel xx"
+            }
+        }
+    }
+],
+"nextPageToken": "CBkQAA",
+"pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+}
+}
