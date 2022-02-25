@@ -1,8 +1,10 @@
-import { useEffect, useState } from 'react';
-import './app.css';
+import { useCallback, useEffect, useState } from 'react';
+import styles from './app.module.css';
 import VideoList from './components/video_list/video_list';
+import Search from '../src/components/search/search';
+import fetchJson from './utils/jsonFetch';
 
-function App() {
+function App() {  
   const [videos, setVideos] = useState([]);
 
   useEffect(() => {
@@ -15,22 +17,15 @@ function App() {
     //   .then(response => response.json())
     //   .then(result => setVideos(result.items))
     //   .catch(error => console.log('error', error));
-    fetch('data.json',{ // https://www.pluralsight.com/guides/fetch-data-from-a-json-file-in-a-react-app -> fetch!!
-      headers : { 
-        'Content-Type': 'application/json',
-        'Accept': 'application/json'
-      }
-    })
-    .then(response => response.json())
-    .then(result => setVideos(result.items))
-    .catch(error => console.log('error', error));
-    // setVideos(data.items)
-
+    fetchJson(setVideos);
   }
 , [])
-console.log('videos: ', videos)
   return (
-    <VideoList videos={videos}/>
+    <div className={styles.appHeader}>
+      <Search setVideos={setVideos} />
+      <VideoList videos={videos}/>
+    </div>
+    
   );
 }
 
