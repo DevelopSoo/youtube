@@ -15,10 +15,17 @@ const VideoItem = ({ video: { snippet } }) => {
 	return (
 		<li className={styles.container}>
 			<div className={styles.video}>
-				<img className={styles.thumbnail} src={snippet.thumbnails.medium.url} alt="video thumbnail" />
+				<img className={styles.thumbnail} src={snippet.thumbnails.high.url} alt="video thumbnail" />
 				<div className={styles.metadata}>
-					<p className={styles.title}>{snippet.title}</p>
-					<p className={styles.channel}>{snippet.channelTitle}</p>
+					<div className={styles.profileLogo}>
+						<a href="#">
+							<img src={snippet.thumbnails.default.url} className={styles.profileLogoImg} alt="" />
+						</a>
+					</div>
+					<div className={styles.description}>
+						<h4 className={styles.title}>{snippet.title}</h4>
+						<p className={styles.channel}>{snippet.channelTitle}</p>
+					</div>
 				</div>
 			</div>
 		</li>

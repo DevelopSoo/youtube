@@ -21,7 +21,7 @@ function App() {
   }
 , [])
   return (
-    <div className={styles.appHeader}>
+    <div className={styles.app}>
       <Search setVideos={setVideos} />
       <VideoList videos={videos}/>
     </div>
