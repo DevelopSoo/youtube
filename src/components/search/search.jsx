@@ -17,18 +17,9 @@ const Search = (props) => {
     setSearchInput(value);
   }, [searchInput]);
 
-	const onSearch = useCallback(() => {
-		const requestOptions = {
-      method: 'GET',
-      redirect: 'follow'
-    };
-		console.log('searchInput: ', searchInput)
-		fetch(`https://www.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=${searchInput}&key=AIzaSyCi9UHDJMNpBoQZLrFiYqszOkWSNtgPKBY`, requestOptions)
-      .then(response => response.json())
-      .then(result => props.setVideos(result.items))
-      .catch(error => console.log('error', error));
-	}, [searchInput]);
-
+	const onSearch = () => {
+		props.onSearch(searchInput)
+	}
 	return (
 		<header className={styles.header}>
 			<div className={styles.navFirst}>

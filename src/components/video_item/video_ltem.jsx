@@ -11,7 +11,7 @@ import styles from './video_item.module.css';
 // 			</li>
 // 	);
 
-const VideoItem = ({ video: { snippet } }) => {
+const VideoItem = ({ video: { snippet, statistics } }) => {
 	return (
 		<li className={styles.container}>
 			<div className={styles.video}>
@@ -25,6 +25,8 @@ const VideoItem = ({ video: { snippet } }) => {
 					<div className={styles.description}>
 						<h4 className={styles.title}>{snippet.title}</h4>
 						<p className={styles.channel}>{snippet.channelTitle}</p>
+						{/* <p>조회 수: {statistics.viewCount}</p>
+						<p>좋아요 수: {statistics.likeCount}</p> */}
 					</div>
 				</div>
 			</div>

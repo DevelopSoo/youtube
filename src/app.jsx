@@ -2,27 +2,23 @@ import { useCallback, useEffect, useState } from 'react';
 import styles from './app.module.css';
 import VideoList from './components/video_list/video_list';
 import Search from '../src/components/search/search';
-import fetchJson from './utils/jsonFetch';
+// import fetchJson from './utils/jsonFetch';
 
-function App() {  
+function App({ youtube }) {  
   const [videos, setVideos] = useState([]);
-
+  const search = query => {
+    youtube.search(query)
+      .then(videos => {console.log(videos); setVideos(videos)})
+  }
   useEffect(() => {
-    const requestOptions = {
-      method: 'GET',
-      redirect: 'follow'
-    };
-    
-    // fetch("https://www.googleapis.com/youtube/v3/videos?part=snippet&maxResults=25&chart=mostPopular&key=AIzaSyCi9UHDJMNpBoQZLrFiYqszOkWSNtgPKBY", requestOptions)
-    //   .then(response => response.json())
-    //   .then(result => setVideos(result.items))
-    //   .catch(error => console.log('error', error));
-    fetchJson(setVideos);
+    youtube.mostPopular()
+      .then(videos => setVideos(videos))
+    // fetchJson(setVideos);
   }
 , [])
   return (
     <div className={styles.app}>
-      <Search setVideos={setVideos} />
+      <Search onSearch={search} />
       <VideoList videos={videos}/>
     </div>
     
