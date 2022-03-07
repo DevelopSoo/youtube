@@ -11,9 +11,10 @@ import styles from './video_item.module.css';
 // 			</li>
 // 	);
 
-const VideoItem = ({ video: { snippet, statistics } }) => {
+const VideoItem = ({ video, video: { snippet, statistics }, onVideoClick, display }) => {
+	const displayType = display === 'list' ? styles.list : styles.grid;
 	return (
-		<li className={styles.container}>
+		<li className={`${styles.container} ${displayType}`} onClick={() => onVideoClick(video)}>
 			<div className={styles.video}>
 				<img className={styles.thumbnail} src={snippet.thumbnails.high.url} alt="video thumbnail" />
 				<div className={styles.metadata}>
